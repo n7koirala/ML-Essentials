@@ -1,2 +1,2 @@
 # ML-algorithms
-Implementation of different Machine Learning Algorithms from scratch 
+Implementation of various Machine Learning Algorithms from scratch 
